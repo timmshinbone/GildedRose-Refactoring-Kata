@@ -96,21 +96,3 @@ public class GildedRoseTest
         Assert.Equal(0, Items[0].Quality);
     }
 }
-
-//{
-//                Name = "Backstage passes to a TAFKAL80ETC concert",
-//                SellIn = 15,
-//                Quality = 20
-//            },
-//            new Item
-//            {
-//                Name = "Backstage passes to a TAFKAL80ETC concert",
-//                SellIn = 10,
-//                Quality = 49
-//            },
-//            new Item
-//            {
-//                Name = "Backstage passes to a TAFKAL80ETC concert",
-//                SellIn = 5,
-//                Quality = 49
-//            }
